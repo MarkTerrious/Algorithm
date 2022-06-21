@@ -34,3 +34,5 @@
 # User Set 
 Debug/
 *.vs
+*.filters
+*.vcsproj
